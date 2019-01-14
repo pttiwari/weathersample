@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WeatherReporter</string>
+    <string name="change_city">Change City</string>
+    <string name="appid">429747e2864cda6cf0887dc6e698c1f9</string>
+</resources>

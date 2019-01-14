@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="btn_height_small">50dp</dimen>
+    <dimen name="app_bar_height">70dp</dimen>
+    <dimen name="small_padding">3dp</dimen>
+    <dimen name="ten_dp">10dp</dimen>
+</resources>
